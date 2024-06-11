@@ -1,0 +1,12 @@
+General Bonaparte, 30, 40, 20
+General Washington, 50, 20, 30
+General Julio Cesar,40 , 60, 15
+General Alejandro Magno, 20, 30, 60
+General Lawrence, 35, 50, 40
+General Wellington, 20, 40, 50
+Genereral William Wallace, 60, 30, 15
+General Saladino, 20, 30, 15
+General Rommel, 25, 60, 16
+General Guillermo I, 30, 55, 20
+Gerenal Federico II, 40, 20, 30
+General Zhukov, 15, 40, 30

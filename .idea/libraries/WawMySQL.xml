@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WawMySQL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/WawMySQL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
